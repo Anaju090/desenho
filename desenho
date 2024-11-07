@@ -1,0 +1,53 @@
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Desenho</title>
+</head>
+
+<body>
+    <header>Desenho</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Pantera cor de rosa</h1>
+            <p>Pantera cor de rosa</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://youtu.be/uv1V9BOb2M8?si=IAZ9KlA1v864Q1EZ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Filmes e séries</h2>
+        <div class="categoria-videos">
+            <a href="https://youtu.be/OMbY_OHYrf0?si=KiwMDAcUt7LIPghe">
+                <img src="https://img.youtube.com/vi/OMbY_OHYrf0/maxresdefault.jpg" />
+            </a>
+            <a href="https://youtu.be/jsdiO5IzYh4?si=sgzK35vBM6xHtIym">
+                <img src="https://img.youtube.com/vi/jsdiO5IzYh4/maxresdefault.jpg" />
+            </a>
+            <a href="https://youtu.be/oP7LN3N10xA?si=z8h8FJbAHOGVPL7z">
+                <img src="https://img.youtube.com/vi/oP7LN3N10xA/maxresdefault.jpg" />
+            </a>
+            <a href="https://youtu.be/RvTQIOSJBIk?si=lC2pwUqoklyfTwSM">
+                <img src="https://img.youtube.com/vi/RvTQIOSJBIk/maxresdefault.jpg" />
+            </a>
+            <a href="https://youtu.be/hFxQ3ifsYGE?si=N7Rb-pp_PeHQ2dfD">
+                <img src="https://img.youtube.com/vi/hFxQ3ifsYGE/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
